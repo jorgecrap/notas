@@ -1,34 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Partidas-netcon</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li>
-<ul>
-<li><a href="#miercoles">Miercoles</a></li>
-<li><a href="#jueves">Jueves</a></li>
-<li><a href="#viernes">Viernes</a></li>
-<li><a href="#sábado">Sábado</a></li>
-<li><a href="#domingo">Domingo</a></li>
-</ul>
-</li>
-</ul>
+---
 
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h2 id="miercoles">Miercoles</h2>
+<h2 id="miercoles">Miercoles</h2>
 <h3 id="good-society---comedia-romántica">Good Society - Comedia Romántica</h3>
 <p>miércoles 8 abril 2020 18:00<br>
 <a href="https://partidas.netconplay.com/games/160">https://partidas.netconplay.com/games/160</a></p>
@@ -73,8 +48,3 @@
 <p>domingo 12 abril 2020 19:00<br>
 <a href="https://partidas.netconplay.com/games/73">https://partidas.netconplay.com/games/73</a></p>
 
-    </div>
-  </div>
-</body>
-
-</html>
